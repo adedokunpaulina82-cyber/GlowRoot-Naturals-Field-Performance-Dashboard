@@ -13,7 +13,7 @@ GlowRoot Naturals is a skincare and haircare brand running in-store promoter cam
 ---
 
 ## 📸 Dashboard Showcase
-![GlowRoot Performance Dashboard](Glowroot%Natural%Dashboard.png)
+![Glowroot Natural Dashboard](Glowroot%20Natural%20Dashboard.png)
 
 ---
 
